@@ -22,7 +22,7 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jin-2024.jpg"
+  avatar           : "Jin-2024.jpg"
   name             : "Jin Huang"
   pronouns         : "She/Her/Hers"
   bio              : "Ph.D. Candidate in Computer Science"
