@@ -18,16 +18,16 @@ Educational Background
 
 Work and Research Experiences
 ======
-- **Notre Dame Computer Vision Research Lab (CVRL) (Notre Dame, IN, United States.)**
+- **Notre Dame Computer Vision Research Lab (CVRL) (Notre Dame, IN, United States)**
   - Feb 2020 - Now : Graduate Research Assistant
 - **W. W. Grainger (Lake Forest, IL, United States)**
   - Jun 2024 – Aug 2024: Deep Learning Intern 
 - **Dolby Laboratories (Sunnyvale, CA, United States)**
   - Jun 2023 – Sep 2023: Computer Vision Research Intern 
-- **Kitware Inc. (Clifton Park, NY, United States.)**
+- **Kitware Inc. (Clifton Park, NY, United States)**
   - Jun 2021 – Aug 2021: Computer Vision R&D Intern 
 - **University of Notre Dame (Notre Dame, IN, United States)**
-  - Aug 2019 – Dec 2019: Teaching Assistant
+  - Aug 2019 – Dec 2019: Teaching Assistant, Computer Vision
 - **Singularity.AI (Bellevue, WA, United States)**
   - Jun 2018 – May 2019: Computer Vision Research Engineer 
 - **New York University Multi-Media and Visual Computing Lab (MMVC) (New York, NY, United States)**
@@ -56,7 +56,7 @@ on Gaze.” (US Patent No. 63/553,406. Filed by Dolby Laboratories.)
 Others
 ======
 - Journal Reviewer: T-IFS, T-PAMI, CVIU
-- Conference Reviwer: CVPR2018, CVPR 2023, WACV2023, CVPR 2024, ECCV 2024, WACV 2025.
+- Conference Reviewer: CVPR2018, CVPR 2023, WACV2023, CVPR 2024, ECCV 2024, WACV 2025.
 - Talk: "Extreme Value Theory for Modeling Category Decision Boundaries in Visual Recognition". Vision Science Soceity (VSS) Annual Meeting, May 2025, Florida.
 - Invited talk: "Measuring Human Perception to Improve Open Set Recognition". 2nd MSU-ND Computer Vision and Biometrics Workshop, May 2023, Michigan State University.
 - Best Presentation Award for Doctoral Consortium, Tapia 2022
