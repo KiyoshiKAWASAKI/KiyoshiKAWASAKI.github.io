@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<p><b>Click <a href="https://drive.google.com/file/d/1TmpmIU2vHVsEx_pge2f_bzYzClQztFB5/view?usp=sharing" target="_blank">here</a> to see my full resume in PDF format.</b></p>
+
 Educational Background
 ======
 - Ph.D. in Computer Science and Engineering. University of Notre Dame, Notre Dame, IN, USA (2025)
