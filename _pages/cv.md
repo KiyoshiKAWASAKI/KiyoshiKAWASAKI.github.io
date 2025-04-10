@@ -22,21 +22,19 @@ Work and Research Experiences
 ======
 - **Notre Dame Computer Vision Research Lab (CVRL) (Notre Dame, IN, United States)**
   - Feb 2020 - Now : Graduate Research Assistant
+  - Aug 2019 – Dec 2019: Teaching Assistant, Computer Vision
 - **W. W. Grainger (Lake Forest, IL, United States)**
   - Jun 2024 – Aug 2024: Deep Learning Intern 
 - **Dolby Laboratories (Sunnyvale, CA, United States)**
   - Jun 2023 – Sep 2023: Computer Vision Research Intern 
 - **Kitware Inc. (Clifton Park, NY, United States)**
-  - Jun 2021 – Aug 2021: Computer Vision R&D Intern 
-- **University of Notre Dame (Notre Dame, IN, United States)**
-  - Aug 2019 – Dec 2019: Teaching Assistant, Computer Vision
+  - Jun 2021 – Aug 2021: Computer Vision R&D Intern
 - **Singularity.AI (Bellevue, WA, United States)**
   - Jun 2018 – May 2019: Computer Vision Research Engineer 
 - **New York University Multi-Media and Visual Computing Lab (MMVC) (New York, NY, United States)**
   - Jun 2017 – May 2018: Graduate Research Assistant 
 - **Nankai University Data Analysis and Processing Lab (Tianjin, China)**
   - Apr 2015 – Jun 2016: Undergraduate Research Assistant
-
   
 
 Publications
