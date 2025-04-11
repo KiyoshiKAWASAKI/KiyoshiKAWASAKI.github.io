@@ -56,7 +56,7 @@ on Gaze.” (US Patent No. 63/553,406. Filed by Dolby Laboratories.)
 Others
 ======
 - Journal Reviewer: T-IFS, T-PAMI, CVIU
-- Conference Reviewer: CVPR2018, CVPR 2023, CVPR 2024, ECCV 2024, WACV2023, WACV 2025, FG2025.
+- Conference Reviewer: CVPR 2018, CVPR 2023, CVPR 2024, ECCV 2024, WACV 2023, WACV 2025, FG 2025.
 - Talk: "Extreme Value Theory for Modeling Category Decision Boundaries in Visual Recognition". Vision Science Soceity (VSS) Annual Meeting, May 2025, Florida.
 - Invited talk: "Measuring Human Perception to Improve Open Set Recognition". 2nd MSU-ND Computer Vision and Biometrics Workshop, May 2023, Michigan State University.
 - Best Presentation Award for Doctoral Consortium, Tapia 2022
