@@ -20,8 +20,10 @@ Educational Background
 
 Work and Research Experiences
 ======
+- **Pixocial (Bellevue, WA, United States)**
+  - Jun 2025 - Now: Applied Researcher, Generative AI
 - **Notre Dame Computer Vision Research Lab (CVRL) (Notre Dame, IN, United States)**
-  - Feb 2020 - Now : Graduate Research Assistant
+  - Feb 2020 - Jun 2025: Graduate Research Assistant
   - Aug 2019 – Dec 2019: Teaching Assistant, Computer Vision
 - **W. W. Grainger (Lake Forest, IL, United States)**
   - Jun 2024 – Aug 2024: Deep Learning Intern 
@@ -39,8 +41,7 @@ Work and Research Experiences
 
 Publications
 ======
-- **Jin Huang** and Walter Scheirer. “Evaluating Face Morph Boundary Decisions Across AI Models and Humans: A novel Dataset and Comparative Analysis”. (In preparation. Submitting to IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026)
-- **Jin Huang**, Deeksha Arun, Terrance Boult and Walter Scheirer. “Extreme Value Theory for Modeling Category Decision Boundaries in Visual Recognition” (In preparation. Submitting to Journal of Vision (JoV))
+- **Jin Huang**, Deeksha Arun, Terrance Boult and Walter Scheirer. “Extreme Value Theory for Modeling Category Decision Boundaries in Visual Recognition” (Submitted. Under review for Journal of Vision (JoV))
 - Sophia Abraham, **Jin Huang**, Brandon RichardWebster, Michael Milford and Walter Scheirer. “Enhancing ecological monitoring with multi-objective optimization: A novel dataset and methodology for segmentation algorithms.” (Under review for CVPR 2025 workshops.)
 - **Jin Huang**, Subhadra Gopalakrishnan, Trisha Mittal, Jake Zuena and Jaclyn Pytlarz. “A Human Eye Tracking Study on Real and Fake Face Recognition Based on Generative Adversarial Networks.” (Accepted to The 19th IEEE International Conference on Automatic Face and Gesture Recognition (FG) 2025)
 - Subhadra Gopalakrishnan, Trisha Mittal, **Jin Huang**, Jake Zuena and Jaclyn Pytlarz. “Enhancement of Generative Image Models Based

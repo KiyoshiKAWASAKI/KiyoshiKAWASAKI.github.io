@@ -9,28 +9,25 @@ redirect_from:
 &nbsp;
 
 <div style="text-align: justify; margin-bottom: 16px;">
-I am a final year Ph.D. candidate in Computer Science and Engineering at the University of Notre Dame, 
-and I am expected to graduate in June, 2025. 
-I am affiliated with the Notre Dame Computer Vision Research Lab (ND CVRL), 
-and advised by Dr. Walter J. Scheirer.
+I am an Applied Researcher at Pixocial. My current research focuses on Generative AI — specifically on multi-modal video generation and editing. 
+I aim to develop novel and robust AI algorithms that enhance the quality of generative visual content,
+and to explore how they can be adapted and utilized in real-world applications.
 </div>
 
 
 <div style="text-align: justify; margin-bottom: 16px;">
-My main research projects focus on Computer Vision, Machine Learning and their intersection with human psychology and cognitive science. 
-We explore how humans perceive the world and how we can utilize human feedback to improve/fine-tune machine learning models, 
-and we also evaluate these models and explore how they perform compare to human subjects.
+I completed my Ph.D. in Computer Science at University of Notre Dame, working with Dr. Walter Scheirer at the Computer Vision Research Lab (CVRL),
+before joining Pixocial.
+My Ph.D. research focused on Computer Vision, Machine Learning and their intersection with human psychology and cognitive science. 
+We explored how humans perceived the world and how we could utilize human feedback to improve/fine-tune machine learning models, 
+proposing a human-in-the-loop method to assist or evaluate AI models.
 </div>
 
-<div style="text-align: justify; margin-bottom: 16px;">
-Besides, I am also interested in fundamental Computer Vision problems such as 
-classification, segmentation and detection. Recently, I have been working on 
-Foundational Models, Multi-modal Large Language Models, 
-Vision-Language Models and their applications.
-</div>
 
 <div style="text-align: justify; margin-bottom: 16px;">
-Before joining Notre Dame for my Ph.D., I obtained my Bachelor’s degree in Software Engineering from Nankai University in 2016 
+Before starting my Ph.D. at Notre Dame, I obtained my Bachelor’s degree in Software Engineering from Nankai University in 2016 
 and my Master’s degree in Computer Science from New York University in 2018. 
-During my journey, I have been fortunate to work for Singularity.AI, and to intern with Kitware Inc, Dolby Laboratories and W. W. Grainger.
+During the past decade, I have worked on a broad range of topics that are related with Computer Vision, 
+ranging from fundamental problems in vision such as segmentation, classification and detection, 
+to most recent multi-modal foundational models and generative models.
 </div>
