@@ -17,7 +17,7 @@ redirect_from:
 </div>
 
 <div><p style="text-align: justify;"> I have a cat and his name is Willy H. Whiskey. 
-He is a domestic shorthair tuxedo cat, and he is turning 6 years old. 
+He is a domestic shorthair tuxedo cat, and he is turning 8 years old. 
 He is always cute and friendly and he is my peaceful company.</p>
 
 </div>

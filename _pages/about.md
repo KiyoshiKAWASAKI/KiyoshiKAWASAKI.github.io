@@ -9,9 +9,9 @@ redirect_from:
 &nbsp;
 
 <div style="text-align: justify; margin-bottom: 16px;">
-I am an Applied Researcher at Pixocial. My current research focuses on Generative AI — specifically on multi-modal video generation and editing. 
-I aim to develop novel and robust AI algorithms that enhance the quality of generative visual content,
-and to explore how they can be adapted and utilized in real-world applications.
+I am an Applied Researcher at Pixocial. My current research focuses on Generative AI — specifically on image and video generation and editing. 
+I am particularly interested in improving the controllability and evaluation of generative models, 
+and I focus on developing novel methods and translating them into robust, real-world products.
 </div>
 
 
@@ -27,7 +27,7 @@ proposing a human-in-the-loop method to assist or evaluate AI models.
 <div style="text-align: justify; margin-bottom: 16px;">
 Before starting my Ph.D. at Notre Dame, I obtained my Bachelor’s degree in Software Engineering from Nankai University in 2016 
 and my Master’s degree in Computer Science from New York University in 2018. 
-During the past decade, I have worked on a broad range of topics that are related with Computer Vision, 
+For over a decade, I have worked on a broad range of topics that are related with Computer Vision, 
 ranging from fundamental problems in vision such as segmentation, classification and detection, 
 to most recent multi-modal foundational models and generative models.
 </div>
